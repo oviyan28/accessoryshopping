@@ -1,0 +1,15 @@
+com\oviya\models\Customer.class
+com\oviya\models\ShippingAddress.class
+com\oviya\models\Product.class
+com\oviya\Service\CustomerServiceImpl.class
+com\oviya\Backend\App.class
+com\oviya\Dao\ProductDao.class
+com\oviya\models\Authorities.class
+com\oviya\models\BillingAddress.class
+com\oviya\Configuration\DBConfiguration.class
+com\oviya\Dao\CustomerDaoImpl.class
+com\oviya\Dao\CustomerDao.class
+com\oviya\models\User.class
+com\oviya\Service\CustomerService.class
+com\oviya\Dao\ProductDaoImpl.class
+com\oviya\models\Category.class
